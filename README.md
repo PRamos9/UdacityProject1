@@ -25,7 +25,18 @@ How does educational inequality and lack of access to health information contrib
 Can strengthening public health systems and expanding access to vaccines, preventive care, and health education significantly increase life expectancy?
 Life expectancy should not be a privilege reserved for those who can afford it — it must be recognized as a fundamental right guaranteed through strong, equitable, and universal public health systems.
 
-3.  Summary of Results
+3.  Files in the Repository
+
+Data: WHO.csv	
+This file contains the dataset used for the analysis. It includes data on life expectancy across various countries, along with health indicators, economic factors, and lifestyle variables that might influence life expectancy.
+
+Docs/README.md	
+This document provides detailed information about the project, including its purpose, methodology, key findings, and acknowledgments. It helps guide any user or contributor exploring this repository.
+
+Notebooks/Pro1.ipynb	
+This Jupyter Notebook contains all the code for data exploration, cleaning, visualizations, modeling, and interpretation of results. It is the main working file where the analysis was conducted.
+
+4.  Summary of Results
 
 The results of this analysis clearly demonstrate that public health, education, and socioeconomic conditions are key determinants of life expectancy. Factors such as schooling, public health expenditure, and access to preventive care have a significant positive impact on how long people live. Conversely, factors such as HIV/AIDS prevalence, excessive alcohol consumption, and high adult mortality rates significantly reduce life expectancy.
 
@@ -40,7 +51,7 @@ Regulate and discourage harmful practices, such as excessive alcohol consumption
 Incorporate the social determinants of health into public policy, recognizing that poverty, inequality, and lack of education are also risk factors for poor health.
 Restoring and strengthening public health systems is not just a matter of social justice — it is a direct investment in the longevity and well-being of current and future generations. Health must no longer be treated as a privilege; it is and must always be recognized as a fundamental human right.
 
-4. Acknowledgments
+5. Acknowledgments
 
 We gratefully acknowledge the World Health Organization (WHO) and United Nations for providing open-access health and socioeconomic data used in this analysis. Additionally, we would like to thank the global data science community for sharing valuable methodologies, tools, and insights that inspired various aspects of this project.
 
